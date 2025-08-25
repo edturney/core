@@ -1,2 +1,2 @@
-# core
-This is the root repository for testing GHA
+# edturney/core
+This is the root repository for testing GHA. 
